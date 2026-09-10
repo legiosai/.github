@@ -11,10 +11,10 @@
 El sistema sabe lo que el equipo no puede sostener, y lo dice con citas.
 
 <p>
-  <img alt="Propietario" src="https://img.shields.io/badge/nucleo-propietario-2ee9ff?style=for-the-badge&labelColor=0c0e13">
-  <img alt="Herramientas" src="https://img.shields.io/badge/herramientas-MIT-4cc9ff?style=for-the-badge&labelColor=0c0e13">
-  <img alt="Etapa" src="https://img.shields.io/badge/etapa-fases_A–C-a78bff?style=for-the-badge&labelColor=0c0e13">
-  <img alt="Infra mínima" src="https://img.shields.io/badge/infra-la_minima_que_hace_falta-3ddc97?style=for-the-badge&labelColor=0c0e13">
+  <img alt="Dos personas" src="https://img.shields.io/badge/somos-dos_personas-2ee9ff?style=for-the-badge&labelColor=0c0e13">
+  <img alt="Núcleo propietario" src="https://img.shields.io/badge/n%C3%BAcleo-propietario-4cc9ff?style=for-the-badge&labelColor=0c0e13">
+  <img alt="Herramientas MIT" src="https://img.shields.io/badge/herramientas-MIT-3ddc97?style=for-the-badge&labelColor=0c0e13">
+  <img alt="North star sin muestra" src="https://img.shields.io/badge/north_star-sin_muestra-a78bff?style=for-the-badge&labelColor=0c0e13">
 </p>
 
 </div>
@@ -102,7 +102,8 @@ No hay nombres de producto separados. Hay tres repos y se llaman por lo que
 hacen.
 
 Los tres son **privados**: acá van descritos, no enlazados, para no mandarte a
-un 404.
+un 404. La columna de estado está **fechada al 2026-09-10**: un estado sin fecha
+envejece mintiendo, que es la misma razón por la que un `SOUL.md` viejo se borra.
 
 | Repo | Qué hace | Estado |
 |---|---|---|
@@ -122,6 +123,15 @@ Cada hito tiene **tres cosas obligatorias**. Si le falta una, no está terminado
 2. **Un gate de CI que se probó en rojo antes de confiar en él.** Si no podés
    mostrar el rojo, no tenés el gate.
 3. **Un número comiteado.** En `numeros/`, fechado, con el método al lado.
+
+Y cada vía lleva **una apuesta que puede perder**, escrita antes de empezar y
+medible desde el primer día. La de `healer`, textual de su `SOUL.md`:
+
+> Si los humanos rechazan la hipótesis de causa raíz agrupada más veces de las
+> que la aceptan, agrupar no aporta nada y esto es un bot de error-a-issue.
+
+Está redactada así a propósito: dice cómo se vería que **no** funcione. Una
+apuesta que no se puede perder no es una apuesta, es una intención.
 
 El **`SOUL.md` de la organización** —misión, métrica, non-goals, principios— es
 el contrato del que cuelga todo lo demás: si un PR lo contradice, el PR está mal.
