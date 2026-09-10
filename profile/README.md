@@ -8,12 +8,11 @@
 
 ### Todo empieza siendo algo que necesitábamos nosotros
 
-<p>
-  <img alt="Dos personas" src="https://img.shields.io/badge/somos-dos_personas-2ee9ff?style=for-the-badge&labelColor=0c0e13">
-  <img alt="Núcleo propietario" src="https://img.shields.io/badge/n%C3%BAcleo-propietario-4cc9ff?style=for-the-badge&labelColor=0c0e13">
-  <img alt="Herramientas MIT" src="https://img.shields.io/badge/herramientas-MIT-3ddc97?style=for-the-badge&labelColor=0c0e13">
-  <img alt="North star sin muestra" src="https://img.shields.io/badge/north_star-sin_muestra-a78bff?style=for-the-badge&labelColor=0c0e13">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="fichadark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="fichalight.svg">
+  <img alt="dos personas · núcleo propietario · herramientas MIT · north star sin muestra" src="fichalight.svg" width="700">
+</picture>
 
 </div>
 

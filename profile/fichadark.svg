@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="74" viewBox="0 0 820 74" role="img" aria-label="dos personas · propietario · MIT · sin muestra">
+<style>
+.r{font:400 10.5px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:1.9px;fill:#7d8590}
+.v{font:400 17px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#e6edf3}
+.v.q{fill:#6e7681}
+</style>
+<text class="r" x="102.5" y="26" text-anchor="middle">SOMOS</text>
+<text class="v" x="102.5" y="52" text-anchor="middle">dos personas</text>
+<text class="r" x="307.5" y="26" text-anchor="middle">NÚCLEO</text>
+<text class="v" x="307.5" y="52" text-anchor="middle">propietario</text>
+<line x1="205.0" y1="19" x2="205.0" y2="55" stroke="#30363d" stroke-width="1"/>
+<text class="r" x="512.5" y="26" text-anchor="middle">HERRAMIENTAS</text>
+<text class="v" x="512.5" y="52" text-anchor="middle">MIT</text>
+<line x1="410.0" y1="19" x2="410.0" y2="55" stroke="#30363d" stroke-width="1"/>
+<text class="r" x="717.5" y="26" text-anchor="middle">NORTH STAR</text>
+<text class="v q" x="717.5" y="52" text-anchor="middle">sin muestra</text>
+<line x1="615.0" y1="19" x2="615.0" y2="55" stroke="#30363d" stroke-width="1"/>
+</svg>
