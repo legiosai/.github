@@ -79,14 +79,14 @@ Todo lo de esta sección es privado. Está descrito y no enlazado para no mandar
 a un 404, y el estado lleva fecha —**2026-09-10**— porque un estado sin fecha
 envejece mintiendo.
 
-**`cartographer`** · Sol. Un agente en un repo nuevo gasta la mayor parte de
+**`cartographer`** · Un agente en un repo nuevo gasta la mayor parte de
 sus llamadas en `ls`, `grep` y leer configs para enterarse de cosas que el repo
 ya sabe de sí mismo. El cartógrafo calcula eso una vez —stack, comandos, entry
 points, símbolos, referencias— sin modelo y sin red, y lo deja en un mapa que
 se consulta. Lo que no puede saber lo deja en `null`, no lo adivina.
 *Vía C, C0 a C9 hechos.*
 
-**`healer`** · Valen. Nadie quería seguir persiguiendo tracebacks a mano.
+**`healer`** · Nadie quería seguir persiguiendo tracebacks a mano.
 Toma incidentes reales, los agrupa por causa en vez de por evento, arma un
 legajo con citas al código y recién ahí llama al modelo, una vez por grupo. Del
 otro lado sale una spec, nunca un merge: es lo único de acá que se dispara solo
@@ -94,7 +94,7 @@ sin una persona adelante, y por eso no toca `main`.
 *Vía H, H0 a H3 y H5 a H7 mergeados. Veintisiete hipótesis esperan revisión
 humana; la tasa de aceptación todavía es `null`.*
 
-**`pipeline`** · Valen. En la versión anterior teníamos veintiséis agentes. La
+**`pipeline`** · En la versión anterior teníamos veintiséis agentes. La
 mayoría eran funciones con nombre de persona: uno abría PRs, otro leía issues,
 otro miraba checks. Ahora hay un solo ejecutor, externo, que recibe una spec y
 devuelve un PR, y el aislamiento donde corre se probó en verde y en rojo.
@@ -169,13 +169,6 @@ healer, textual de su `SOUL.md`:
 Está redactada así a propósito. Dice cómo se vería que no funcione, que es lo
 que hace que sea una apuesta y no una intención.
 
-El `SOUL.md` de la organización —misión, métrica, non-goals, principios— es el
-contrato del que cuelga todo lo demás; si un PR lo contradice, el PR está mal.
-El de cada repo se escribe cuando hace falta: cuando hay una misión que se
-puede malinterpretar, una métrica que decide si algo está terminado, o un
-non-goal que alguien va a querer cruzar. Y cuando queda muy viejo se borra,
-porque un SOUL desactualizado no es neutro, miente con autoridad.
-
 <details>
 <summary><b>Los cuatro principios que se invocan a diario</b></summary>
 
@@ -229,10 +222,10 @@ regla, y no «todo abierto»: se publica lo que sirve suelto.
 
 ## Quiénes
 
-| | |
-|---|---|
-| **Valentín Torassa** · [@ValentinTorassa](https://github.com/ValentinTorassa) | Producto y ejecución. El healer y el pipeline. |
-| **Sol Soletti** · [@solsolettidev](https://github.com/solsolettidev) | El cartógrafo y las superficies. |
+Dos personas, y todo lo que hay acá lo escribimos entre los dos.
+
+**Valentín Torassa** · [@ValentinTorassa](https://github.com/ValentinTorassa)<br>
+**Sol Soletti** · [@solsolettidev](https://github.com/solsolettidev)
 
 Founder-led y de operación privada. Si algo de acá te sirve, lo que se puede
 usar hoy es [quartermaster](https://github.com/legiosai/quartermaster); lo
