@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Legios">
+  <!-- Corte láser: líneas centrales, pelo, sin relleno. -->
+  <g fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round">
+    <path d="M9 14 C26 14 28 32 41 32"/>
+    <path d="M9 50 C26 50 28 32 41 32"/>
+    <path d="M34 32 H41"/>
+    <circle cx="50" cy="32" r="7.5"/>
+  </g>
+</svg>

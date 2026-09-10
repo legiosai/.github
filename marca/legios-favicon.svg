@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Legios">
+  <!-- 16 y 32 px: trazo grueso, nodo grande, sin degradado. -->
+  <g fill="none" stroke="#2BA7DB" stroke-width="8" stroke-linecap="round">
+    <path d="M9 14 C26 14 28 32 41 32"/>
+    <path d="M9 50 C26 50 28 32 41 32"/>
+    <path d="M34 32 H41"/>
+  </g>
+  <circle cx="50" cy="32" r="9" fill="#2BA7DB"/>
+</svg>
