@@ -110,8 +110,8 @@ un 404.
 | `healer` | De incidentes reales a causas raíz citadas, y de ahí a una spec. El embudo colapsa N eventos en M causas, así que el modelo se llama por causa, no por evento. | Vía H · H0–H3, H5–H7 mergeados |
 | `pipeline` | Spec → ejecutor libre → PR. El aislamiento (P5) está probado corriendo, en verde y en rojo. El north star —% de PRs mergeados sin reescritura— sigue **sin muestra**. | Fase C · P0–P6 cerrados; P7 abierto |
 
-Además, también privados: `salvage` —lo que se rescató de v1, legible— y `web`
-—la landing—.
+Además, también privados: `architecture` —los ADR, los hallazgos y el legajo del
+reinicio: por qué las cosas son como son— y `web`, la landing.
 
 ## Cómo trabajamos
 
