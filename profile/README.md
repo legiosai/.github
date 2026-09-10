@@ -46,9 +46,9 @@ más Codex y los proveedores que guarda opencode.
 </table>
 
 ```bash
-brew install legiosai/tap/quartermaster    # macOS y Linux
-sudo apt install quartermaster             # con el repo de Legios agregado
-npm install -g @legios/quartermaster
+brew install legiosai/tap/quartermaster    # macOS
+sudo apt install quartermaster             # Linux, con el repo de Legios agregado
+npm install -g @legios/quartermaster       # cualquier sistema con Node
 ```
 
 <p align="center">
