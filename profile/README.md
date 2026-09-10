@@ -123,8 +123,14 @@ Cada hito tiene **tres cosas obligatorias**. Si le falta una, no está terminado
    mostrar el rojo, no tenés el gate.
 3. **Un número comiteado.** En `numeros/`, fechado, con el método al lado.
 
-Y una ceremonia de proceso que no se negocia: **el `SOUL.md` de cada repo,
-lleno, antes de la primera línea de código.**
+El **`SOUL.md` de la organización** —misión, métrica, non-goals, principios— es
+el contrato del que cuelga todo lo demás: si un PR lo contradice, el PR está mal.
+
+El de cada repo se escribe **cuando sirve**: cuando hay una misión que se puede
+malinterpretar, una métrica que decide si el hito está terminado, o non-goals que
+alguien va a querer cruzar. Y si queda muy desactualizado **se elimina**, porque
+un SOUL viejo no es neutro: miente con autoridad, que es justo lo que prohíbe el
+primer principio.
 
 <details>
 <summary><b>Los cuatro principios que se invocan a diario</b></summary>
