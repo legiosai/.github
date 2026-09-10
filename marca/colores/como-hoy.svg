@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Legios">
-  <!-- La marca sola sobre fondo oscuro. Tronco corto, dos canales. -->
-  <defs><linearGradient id="legios" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="64" y2="0">
+  <!-- el degradado actual, tronco corto -->
+  <defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="64" y2="0">
     <stop offset="0" stop-color="#5AE5F1"/><stop offset="1" stop-color="#1E6EEF"/>
   </linearGradient></defs>
-  <g fill="none" stroke="url(#legios)" stroke-linecap="round" opacity=".75">
+  <g fill="none" stroke="url(#g)" stroke-linecap="round" opacity=".75">
     <path d="M9 14 C26 14 28 32 41 32" stroke-width="5"/>
     <path d="M9 50 C26 50 28 32 41 32" stroke-width="5"/>
     <path d="M34 32 H41" stroke-width="5"/>
   </g>
-  <circle cx="50" cy="32" r="7.5" fill="url(#legios)"/>
+  <circle cx="50" cy="32" r="7.5" fill="url(#g)"/>
 </svg>

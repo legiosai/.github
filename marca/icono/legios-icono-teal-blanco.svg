@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Legios">
+  <!-- Icono de organizacion: teal plano sobre blanco. Tronco corto. -->
+  <rect width="512" height="512" fill="#FFFFFF"/>
+  <g transform="translate(256,256) scale(5.125) translate(-32,-32)">
+    <g fill="none" stroke="#189AB0" stroke-linecap="round" opacity=".75">
+      <path d="M9 14 C26 14 28 32 41 32" stroke-width="5"/>
+      <path d="M9 50 C26 50 28 32 41 32" stroke-width="5"/>
+      <path d="M34 32 H41" stroke-width="5"/>
+    </g>
+    <circle cx="50" cy="32" r="7.5" fill="#189AB0"/>
+  </g>
+</svg>
