@@ -1,18 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="74" viewBox="0 0 820 74" role="img" aria-label="dos personas · propietario · MIT · sin muestra">
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="76" viewBox="0 0 660 76" role="img" aria-label="11 repos · 3 públicos · 10 lenguajes · 2 personas">
 <style>
 .r{font:400 10.5px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:1.9px;fill:#7d8590}
-.v{font:400 17px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#e6edf3}
-.v.q{fill:#6e7681}
+.v{font:400 25px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#e6edf3}
 </style>
-<text class="r" x="102.5" y="26" text-anchor="middle">SOMOS</text>
-<text class="v" x="102.5" y="52" text-anchor="middle">dos personas</text>
-<text class="r" x="307.5" y="26" text-anchor="middle">NÚCLEO</text>
-<text class="v" x="307.5" y="52" text-anchor="middle">propietario</text>
-<line x1="205.0" y1="19" x2="205.0" y2="55" stroke="#30363d" stroke-width="1"/>
-<text class="r" x="512.5" y="26" text-anchor="middle">HERRAMIENTAS</text>
-<text class="v" x="512.5" y="52" text-anchor="middle">MIT</text>
-<line x1="410.0" y1="19" x2="410.0" y2="55" stroke="#30363d" stroke-width="1"/>
-<text class="r" x="717.5" y="26" text-anchor="middle">NORTH STAR</text>
-<text class="v q" x="717.5" y="52" text-anchor="middle">sin muestra</text>
-<line x1="615.0" y1="19" x2="615.0" y2="55" stroke="#30363d" stroke-width="1"/>
+<text class="r" x="82.5" y="25" text-anchor="middle">REPOS</text>
+<text class="v" x="82.5" y="56" text-anchor="middle">11</text>
+<text class="r" x="247.5" y="25" text-anchor="middle">PÚBLICOS</text>
+<text class="v" x="247.5" y="56" text-anchor="middle">3</text>
+<line x1="165.0" y1="18" x2="165.0" y2="58" stroke="#30363d" stroke-width="1"/>
+<text class="r" x="412.5" y="25" text-anchor="middle">LENGUAJES</text>
+<text class="v" x="412.5" y="56" text-anchor="middle">10</text>
+<line x1="330.0" y1="18" x2="330.0" y2="58" stroke="#30363d" stroke-width="1"/>
+<text class="r" x="577.5" y="25" text-anchor="middle">PERSONAS</text>
+<text class="v" x="577.5" y="56" text-anchor="middle">2</text>
+<line x1="495.0" y1="18" x2="495.0" y2="58" stroke="#30363d" stroke-width="1"/>
 </svg>

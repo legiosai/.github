@@ -11,7 +11,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fichadark.svg">
   <source media="(prefers-color-scheme: light)" srcset="fichalight.svg">
-  <img alt="dos personas · núcleo propietario · herramientas MIT · north star sin muestra" src="fichalight.svg" width="700">
+  <img alt="11 repos · 3 públicos · 10 lenguajes · 2 personas" src="fichalight.svg" width="560">
 </picture>
 
 </div>
