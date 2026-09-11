@@ -34,7 +34,7 @@ acuerde.
 <table>
 <tr>
 <td width="120" align="center" valign="middle">
-  <img src="https://legiosai.github.io/quartermaster/img/logo-256.png" width="88" alt="">
+  <img src="https://quartermaster.legios.com.ar/img/logo-256.png" width="88" alt="">
 </td>
 <td valign="middle">
 
@@ -42,7 +42,7 @@ acuerde.
 
 Cuánta cuota te queda en **todos** los perfiles de Claude Code de la máquina,
 más Codex y los proveedores que guarda opencode.
-**Público y MIT.** · [Sitio](https://legiosai.github.io/quartermaster/) ·
+**Público y MIT.** · [Sitio](https://quartermaster.legios.com.ar/) ·
 [Releases](https://github.com/legiosai/quartermaster/releases)
 
 </td>
@@ -64,7 +64,7 @@ npm install -g @legios/quartermaster       # cualquier sistema con Node
 ```
 
 <p align="center">
-  <img src="https://legiosai.github.io/quartermaster/img/barra.png" width="520" alt="La barra de arriba de GNOME con un medidor por cuenta">
+  <img src="https://quartermaster.legios.com.ar/img/barra.png" width="520" alt="La barra de arriba de GNOME con un medidor por cuenta">
 </p>
 
 La fórmula de Homebrew vive en
