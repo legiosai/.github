@@ -134,7 +134,7 @@ todos los días, un diagrama y los links a la documentación oficial, y enlaza a
 términos que usa, así que se puede seguir el hilo desde lo básico. Cada día que entrás te
 muestra uno que todavía no viste. También se lee con código: Markdown en cualquier página, una
 API JSON y un servidor MCP en `/mcp`, sin cuenta.
-*102 términos en 9 temas, al 2026-10-17.*
+*304 términos en 9 temas, al 2026-10-17.*
 
 <p align="center">
   <a href="https://tidbit.legios.com.ar/es/"><img src="https://tidbit.legios.com.ar/og-es.png" width="520" alt="Tidbit: el diccionario tech, explicado fácil"></a>
