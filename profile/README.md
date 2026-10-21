@@ -11,7 +11,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fichadark.svg">
   <source media="(prefers-color-scheme: light)" srcset="fichalight.svg">
-  <img alt="19 repos · 6 públicos · 22 lenguajes · 2 personas" src="fichalight.svg" width="560">
+  <img alt="21 repos · 7 públicos · 22 lenguajes · 2 personas" src="fichalight.svg" width="560">
 </picture>
 
 </div>
@@ -138,6 +138,39 @@ API JSON y un servidor MCP en `/mcp`, sin cuenta.
 
 <p align="center">
   <a href="https://tidbit.legios.com.ar/es/"><img src="https://tidbit.legios.com.ar/og-es.png" width="520" alt="Tidbit: el diccionario tech, explicado fácil"></a>
+</p>
+
+<table>
+<tr>
+<td width="120" align="center" valign="middle">
+  <img src="https://comandle.valentorassa.com/img/icon-192.png" width="88" alt="">
+</td>
+<td valign="middle">
+
+### [comandle](https://github.com/legiosai/comandle)
+
+El Wordle de los comandos de Linux y de seguridad: uno por día, seis intentos, en la terminal
+o en el navegador, y al final te explica el que tocó.
+**Público y Apache-2.0.** · [Jugar](https://comandle.valentorassa.com) ·
+Lo hace VT Security y lo publica Legios
+
+</td>
+</tr>
+</table>
+
+El comando del día es el mismo para todos, en la web y en la terminal. Cuando termina la
+ronda aparece su ficha: qué hace, tres ejemplos que no rompen nada y una nota de seguridad, y
+algunas llevan a un lab de Open Security Labs. La terminal no usa la red y la web no tiene
+cookies ni seguimiento: las estadísticas y la racha quedan en tu máquina. Los comandos nuevos
+entran por PR y siempre al final, así ningún día que ya pasó cambia de respuesta.
+*75 comandos, hasta el 2027-01-02; el #1 fue el 2026-10-20. Al 2026-10-21.*
+
+```bash
+go install github.com/legiosai/comandle@latest
+```
+
+<p align="center">
+  <a href="https://comandle.valentorassa.com"><img src="https://comandle.valentorassa.com/img/og.png" width="520" alt="comandle: adiviná el comando del día en 6 intentos, con un tablero de cuatro intentos y Tux en ASCII"></a>
 </p>
 
 <table>
